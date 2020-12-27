@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  routes-service:
+    build: .
+    working_dir: /bin
+    ports:
+      - "3001:3001"

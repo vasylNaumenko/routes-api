@@ -1,0 +1,6 @@
+api-server:
+  http:
+    listen-address: 0.0.0.0:3001
+
+rest-vendors:
+  osrm: "http://router.project-osrm.org/route/v1/driving/"
