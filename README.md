@@ -73,7 +73,7 @@ where is {error message} is one of:
 
 where is {error message} is an error from third-party router service
 ```
-####health check
+##### health check
 ```
 GET http://localhost:3001/status
 ```
